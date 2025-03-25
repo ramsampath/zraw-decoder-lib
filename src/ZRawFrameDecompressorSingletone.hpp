@@ -4,6 +4,7 @@
 
 #include "ZRawFrame.hpp"
 #include "BitReader.hpp"
+#include "ZRawImageLineBlockReader.hpp"
 #include "ZRawFramePreProcessorSingletone.hpp"
 
 class ZRawFrameDecompressorSingletone
